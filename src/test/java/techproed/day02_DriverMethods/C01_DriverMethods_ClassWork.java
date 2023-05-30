@@ -17,7 +17,7 @@ public class C01_DriverMethods_ClassWork {
             System.out.println("Test PASSED");
         }else System.out.println("Test FAILED");
         /*
-         String actualTitle = driver.getTitle();//gercek baslik
+        String actualTitle = driver.getTitle();//gercek baslik
         String expectedTitle = "amazon";//beklenen baslik
         if(driver.getTitle().contains("Amazon")){
             System.out.println("Test PASSED");
